@@ -4,5 +4,5 @@
     2. Create a dictionary with counter for each identified word
     3. Filter common stop-words (based on context)
 ## Evaluation of the terms to identify meaning
-    1. Model identified terms after stop-words filtering
-    2. Visualize word-cloud from Model
+    1. Load data into Dataframe
+    2. Visualize wordcloud from Dataframe

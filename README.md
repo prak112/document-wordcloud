@@ -7,3 +7,6 @@
 ## Evaluation of the terms to identify meaning
 - Load data into Dataframe
 - Visualize wordcloud from Dataframe, learnt from this [Datacamp tutorial](https://www.datacamp.com/community/tutorials/wordcloud-python)
+
+## Output
+![Most commonly occuring words in the document](output/Nbs_wordcloud.png)
